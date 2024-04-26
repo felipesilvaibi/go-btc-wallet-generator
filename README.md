@@ -1,4 +1,4 @@
-# Bitcoin Wallet Generator for Testnet
+# Bitcoin Hierarchical Deterministic Wallet Generator for Testnet
 
 Este projeto em Go demonstra a criação de uma carteira para Bitcoin na rede Testnet, implementando as normas BIP39 e BIP32/BIP49 para geração de chaves hierárquicas determinísticas (HD Wallets).
 
